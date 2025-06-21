@@ -20,4 +20,6 @@ dependencies = [
     "bertopic>=0.17.0",
     "umap-learn>=0.5.7",
     "transformers>=4.52.4",
+    "scikit-multilearn>=0.2.0",
+    "seaborn>=0.13.2",
 ]
